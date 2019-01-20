@@ -1,0 +1,75 @@
+a7500fb HEAD@{0}: commit: add directoy
+8d0e115 HEAD@{1}: commit: Rever commit file
+886b37d HEAD@{2}: reset: moving to HEAD~1
+924d7b2 HEAD@{3}: commit: Delete file this time
+886b37d HEAD@{4}: reset: moving to HEAD~1
+d0a4a5a HEAD@{5}: commit: hari delete fiel
+886b37d HEAD@{6}: reset: moving to HEAD~1
+967daa9 HEAD@{7}: commit: delete file
+886b37d HEAD@{8}: reset: moving to HEAD~1
+55fb808 HEAD@{9}: commit: This is soft file push
+886b37d HEAD@{10}: reset: moving to HEAD~1
+16f0b1d HEAD@{11}: commit: pushed the files again
+886b37d HEAD@{12}: reset: moving to HEAD~1
+53df9df HEAD@{13}: commit: THis is after reflog commit
+886b37d HEAD@{14}: reset: moving to HEAD~1
+c6883c6 HEAD@{15}: commit: THis is 1st reflog commit
+886b37d HEAD@{16}: reset: moving to HEAD~1
+60f526c HEAD@{17}: commit: This is reflog commit
+886b37d HEAD@{18}: reset: moving to HEAD~1
+14aef81 HEAD@{19}: commit: This is soft head commit
+886b37d HEAD@{20}: reset: moving to HEAD~2
+cdccde9 HEAD@{21}: commit: This is another new commit
+94c89ca HEAD@{22}: commit: THis is 1st commit
+886b37d HEAD@{23}: reset: moving to HEAD~2
+87e0532 HEAD@{24}: reset: moving to HEAD^
+d5d25b1 HEAD@{25}: commit: This final attempt
+87e0532 HEAD@{26}: commit: This is 5th adding
+929e7de HEAD@{27}: reset: moving to HEAD^
+6dd918b HEAD@{28}: commit: This is 2nd commit
+929e7de HEAD@{29}: commit: This is one commit
+886b37d HEAD@{30}: checkout: moving from RemoteBanch to development
+886b37d HEAD@{31}: checkout: moving from KKK to RemoteBanch
+886b37d HEAD@{32}: checkout: moving from FFF to KKK
+886b37d HEAD@{33}: checkout: moving from master to FFF
+886b37d HEAD@{34}: reset: moving to HEAD~2
+4b02b3e HEAD@{35}: reset: moving to HEAD~1
+debedc8 HEAD@{36}: commit: This is undo commit
+4b02b3e HEAD@{37}: checkout: moving from HHH to master
+8e1077e HEAD@{38}: commit: Add the merger NEW Lates file
+dc0088c HEAD@{39}: checkout: moving from share_Update to HHH
+dc0088c HEAD@{40}: checkout: moving from HHH to share_Update
+dc0088c HEAD@{41}: commit: This is delete branch
+8ba6571 HEAD@{42}: checkout: moving from hotfix to HHH
+302ac07 HEAD@{43}: checkout: moving from HHH to hotfix
+8ba6571 HEAD@{44}: commit: This is delete files add
+302ac07 HEAD@{45}: checkout: moving from hotfix to HHH
+302ac07 HEAD@{46}: commit: This is hotfix for DB
+3df9978 HEAD@{47}: checkout: moving from master to hotfix
+4b02b3e HEAD@{48}: checkout: moving from AMS to master
+d567930 HEAD@{49}: commit: This is properties file
+6caff64 HEAD@{50}: commit: Delete 222 file
+c602f3f HEAD@{51}: commit: This is delete content file
+9b60ad7 HEAD@{52}: commit: adding test file
+4b02b3e HEAD@{53}: checkout: moving from master to AMS
+4b02b3e HEAD@{54}: checkout: moving from buy_Dev_1 to master
+3df9978 HEAD@{55}: checkout: moving from AMS to buy_Dev_1
+886b37d HEAD@{56}: checkout: moving from buy_fallback to AMS
+886b37d HEAD@{57}: reset: moving to 886b37d5a86f6bcb4f6fb66b31c66d68a3ae52c3
+3df9978 HEAD@{58}: reset: moving to 3df997816d4155e8f8fd8a7a28f82e52fe56d649
+b97479a HEAD@{59}: reset: moving to b97479ac5c53e0aa8624bb5b4b486034e24c649f
+b97479a HEAD@{60}: commit: Add DD files
+79e9bb0 HEAD@{61}: commit: add reverts files
+19a4b5b HEAD@{62}: revert: Revert "File Name Changed D to DD"
+3f986cf HEAD@{63}: commit: File Name Changed D to DD
+8de0bec HEAD@{64}: commit: File Name D to DD
+4b02b3e HEAD@{65}: checkout: moving from buy_preprod to buy_fallback
+4b02b3e HEAD@{66}: checkout: moving from master to buy_preprod
+4b02b3e HEAD@{67}: commit: B
+3df9978 HEAD@{68}: checkout: moving from buy_Dev_1 to master
+3df9978 HEAD@{69}: Branch: renamed refs/heads/buy_dev to refs/heads/buy_Dev_1
+3df9978 HEAD@{71}: checkout: moving from master to buy_dev
+3df9978 HEAD@{72}: rebase finished: returning to refs/heads/master
+3df9978 HEAD@{73}: pull --rebase origin master: added A Name File into Repo
+886b37d HEAD@{74}: pull --rebase origin master: checkout 886b37d5a86f6bcb4f6fb66b31c66d68a3ae52c3
+b26b9d1 HEAD@{75}: commit (initial): added A Name File into Repo
